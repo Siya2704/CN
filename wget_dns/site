@@ -1,0 +1,20 @@
+python3 mywget.py barc.gov.in
+python3 mywget.py khadya.cg.nic.in
+python3 mywget.py info.cern.ch
+python3 mywget.py go.com
+python3 mywget.py spark.apache.org
+
+
+python3 mywget.py scratchpads.org/explore/sites-list.html
+python3 mywget.py www.mind-spark.org
+python3 mywget.py mind-spark.org/Events/index.html
+
+
+python3 mywget.py jandarshan.cg.nic.in
+
+
+python3 mywget.py barc.gov.in khadya.cg.nic.in info.cern.ch
+
+python3 mywget.py barc.gov.in khadya.cg.nic.in info.cern.ch go.com spark.apache.org
+
+
